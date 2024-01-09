@@ -56,3 +56,14 @@ Enjoy your customized web experience!
 
 ## Bugs report
 be welcomed to submit bugs, wanted features, or just contact me
+
+
+----
+----
+----
+----
+
+## Features
+[kemono image maximizer by default](./kemono_image_maximizer_default.js):
+    - downloader icon: click one icon and simply download an full reso image to your default location
+
