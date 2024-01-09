@@ -3,3 +3,6 @@
 
 ### tampermonkey:
 - [kemono](kemono.su) image interface maximizer by default load
+
+### ublockorigin:
+- [twitter/x](x.com) block all gifs media
