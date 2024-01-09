@@ -1,0 +1,9 @@
+! this is how you comment in ublock origin filters
+!
+! 1. block all gifs in twitter timeline
+twitter.com##article [data-testid="playButton"][aria-label="Play this GIF"]:upward(article)
+
+! 2. next two lines: block all gifs in one's profile's media (i.e. visit https://twitter.com/elonmusk/media)
+! the spaces of blocked gifs will remain in original location as in twitter use three pics in one row layout (web version only, updated 1/9/24)
+twitter.com##li:has([alt*="GIF"])
+twitter.com##li:has(img[src*="tweet_video_thumb"])

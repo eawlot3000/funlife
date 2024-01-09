@@ -2,4 +2,4 @@
 
 
 ### tampermonkey:
-- [kemono](kemono.su) image maximizer by default load
+- [kemono](kemono.su) image interface maximizer by default load
