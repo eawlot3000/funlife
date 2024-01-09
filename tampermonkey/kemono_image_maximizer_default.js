@@ -22,3 +22,9 @@
     }
   });
 })();
+
+/*
+ * be well noticed!
+ * to examine this script working well, right click and open the image in new tab browering it with extension enable, the url link should starts with: "c4.kemonosu/data/..................jpg"
+ * if it did NOT start with "https://img.kemono.su/thumbnail/........." then the script is working for you!
+*/
