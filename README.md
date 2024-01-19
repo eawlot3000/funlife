@@ -2,7 +2,7 @@
 
 
 ### tampermonkey:
-- [kemono](kemono.su) image interface maximizer by default load
+- [kemono](https://www.kemono.su) image interface maximizer by default load
 
 ### ublockorigin:
-- [twitter/x](x.com) block all gifs media
+- [twitter/x](https://www.x.com) block all gifs media
