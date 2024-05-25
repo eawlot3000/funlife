@@ -7,3 +7,9 @@ twitter.com##article [data-testid="playButton"][aria-label="Play this GIF"]:upwa
 ! the spaces of blocked gifs will remain in original location as in twitter use three pics in one row layout (web version only, updated 1/9/24)
 twitter.com##li:has([alt*="GIF"])
 twitter.com##li:has(img[src*="tweet_video_thumb"])
+
+! ----------
+! all same. but replace twitter.com to x.com since may 2024 they replace that url. just copy all. same rules
+x.com##article [data-testid="playButton"][aria-label="Play this GIF"]:upward(article)
+x.com##li:has([alt*="GIF"])
+x.com##li:has(img[src*="tweet_video_thumb"])
